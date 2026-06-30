@@ -42,7 +42,7 @@ identical logic. The valid-status list was lifted into `CONFIG.APPLICATION_STATU
   remains a manual step before deploy.
 
 ### Notes / Follow-ups
-- PR #25 is open against `dev` and **not merged**; awaiting developer review/merge.
+- PR #25 was **merged into `dev`** on 2026-06-30.
 - Branched from `dev` while PR #23 (`feat/config-script-properties`) was still open (per
   developer instruction). The two changes touch different parts of `CONFIG`; expect at most
   a trivial merge once #23 lands.

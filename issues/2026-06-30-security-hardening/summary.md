@@ -39,7 +39,7 @@ Two backend-only security hardening fixes in `src/main.js`:
   manual pre-deploy step.
 
 ### Notes / Follow-ups
-- PR #27 is open against `dev` and **not merged**; awaiting developer review/merge.
+- PR #27 was **merged into `dev`** on 2026-06-30.
 - **Deferred (follow-ups):** ownership/access check on `clientUpdateDocs` (require
   `bookerEmail` match) — needs a paired frontend change, so it's a coordinated FE+BE task.
   Also still open from the review: `LockService` on non-add write handlers, and splitting

@@ -26,12 +26,11 @@ merge. The backend list's duplicate `10.` numbering was also fixed.
 - Both PRs themselves follow the new rule (`Closes #94`, `Closes #28`).
 
 ### Notes / Follow-ups
-- Two independent PRs, both open against `dev` and **not merged**; awaiting developer
-  review/merge: frontend #95, backend #29.
-- After both merge, delete the now-redundant `feedback-issue-and-link-pr` auto-memory, since
-  CLAUDE.md becomes the source of truth for this rule.
-- Backend PR #27 (security hardening) remains open in parallel; this PR touches only
-  `CLAUDE.md`, so there is no overlap.
+- Both PRs (frontend #95, backend #29) were **merged into `dev`** on 2026-06-30.
+- The now-redundant `feedback-issue-and-link-pr` auto-memory was deleted, since CLAUDE.md is
+  now the source of truth for this rule.
+- Backend PR #27 (security hardening) was also merged the same day; no overlap (this PR
+  touched only `CLAUDE.md`).
 
 ---
 

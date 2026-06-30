@@ -31,7 +31,7 @@ verbatim, no renames/signatures/logic changes. Each module has a short bilingual
   redeploy (out of scope for the AI).
 
 ### Notes / Follow-ups
-- PR #31 is open against `dev` and **not merged**; awaiting developer review/merge.
+- PR #31 was **merged into `dev`** on 2026-06-30.
 - **Post-merge (maintainer):** `clasp push` then redeploy the Web App so the multi-file
   project goes live; run `setup()` is NOT required (no schema change).
 - Still open from the review: `findBooking`/`isActiveBooking` helper dedup; `LockService`

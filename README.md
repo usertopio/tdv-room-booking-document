@@ -1,4 +1,4 @@
-# TDV Room Booking — Document
+# TDV Room Booking [v1.0.0] — Document
 
 Central repository for the **requirement → issue → tracking** lifecycle across the
 TDV Room Booking project. This is the single source of truth for requirements and
@@ -6,12 +6,12 @@ implementation artifacts that previously lived in each code repo's `material/` f
 
 ## Related Repositories
 
-| Repo | Role |
-|------|------|
-| `tdv-room-booking-frontend` | React 19.2 application |
-| `tdv-room-booking-backend` | Backend services |
-| `tdv-room-booking-deployment` | Deployment configuration |
-| `tdv-room-booking-document` | **This repo** — requirements, issues, tracking |
+| Repo                          | Role                                           |
+| ----------------------------- | ---------------------------------------------- |
+| `tdv-room-booking-frontend`   | React 19.2 application                         |
+| `tdv-room-booking-backend`    | Backend services                               |
+| `tdv-room-booking-deployment` | Deployment configuration                       |
+| `tdv-room-booking-document`   | **This repo** — requirements, issues, tracking |
 
 GitHub issues are created in the **code repo** where the work happens. This repo
 holds the requirement documents, planning artifacts, and a cross-repo tracking board
